@@ -1,0 +1,41 @@
+.nb
+{
+    background: black;
+    height: 100px;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(45deg,black 20%,rgba(0,128,128,0.1),black);
+}
+#im 
+{
+    display: flex;
+    height: 100px;
+    padding-left: 60px;
+}
+#p1
+{
+    height: 20px;
+    width: 250px;
+    font-size: 20px;
+}
+#im2
+{
+    width:55%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    color:teal;
+    margin-right: 30px;
+}
+#im2 :hover
+{
+    color: turquoise;
+    cursor: -webkit-grab;
+}
+
+#se1
+{
+    display: flex;
+}
